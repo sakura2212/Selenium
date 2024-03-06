@@ -4,6 +4,8 @@ public class ArrayIndexOutOfBoundExp {
 	public static void main(String[] args) {
 		
 		int [] ar =new int[4];
+		int [] ar2 =new int[4];
+		
 		
 		try {
 			ar[0] =10;
